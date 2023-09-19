@@ -11,7 +11,7 @@ connectDb();
 
 
  //server
-app.listen(5000, ()=>{
+app.listen(8800, ()=>{
     
-    console.log("Server running at port",5000)
+    console.log("Server running at port",8800)
 });
